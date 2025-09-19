@@ -178,7 +178,11 @@ main {
     max-height:300px;
 }
 
-
+#benefits-image{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
 
 
 /*Media query : Tablets and larger(768px and up) */
